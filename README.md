@@ -1,17 +1,17 @@
 ### Hi, Welcome 👋
-.Net, PL-Sql, React and React Native 
+.Net, T-Sql, React and React Native 
 
 
   Hi, I'm Fethullah Kaya, a passionate software developer.
 
-🔭 I’m currently working on various projects using .NET, PL-SQL, React and React Native.   
+🔭 I’m currently working on various projects using .NET, T-SQL, React and React Native.   
 🌱 I’m always excited to learn and implement new technologies.   
 💼 I believe in the power of programming to transform and improve the lives of people around the world.   
 ⚡ I love technology and enjoy exploring new tech trends.   
 📫 How to reach me: [fkbeys@gmail.com]  
 * * * 
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥 
-`[Image:dotnet]` `[Image:plsql]` `[Image:react]` `[Image:reactnative]` 
+`[Image:dotnet]` `[Image:sql]` `[Image:react]` `[Image:reactnative]` 
 * * * 
 ## ⚡ Stats ⚡
  <h5 align="center">
