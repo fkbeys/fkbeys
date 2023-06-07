@@ -10,8 +10,11 @@
 ⚡ I love technology and enjoy exploring new tech trends.   
 📫 How to reach me: [fkbeys@gmail.com]  
 * * * 
-## 🔥 Languages & Frameworks & Tools & Abilities 🔥 
-`[Image:dotnet]` `[Image:sql]` `[Image:react]` `[Image:reactnative]` 
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥  
+  <code>  <img width="60" src="dotnet.png">   </code> 
+  <code>  <img width="60" src="sql.png">   </code> 
+  <code>  <img width="80" src="react.png">   </code> 
+  <code>  <img width="140" src="reactnative.png">   </code> 
 * * * 
 ## ⚡ Stats ⚡
  <h5 align="center">
