@@ -15,8 +15,8 @@
 * * * 
 ## ⚡ Stats ⚡
  <h5 align="center">
-    <code><a href="https://www.linkedin.com/in/fkbeys/" title="LinkedIn Profile"><img width="120" src="LinkedIn_Logo.svg.png"> LinkedIn</a></code> 
-    <code><a href="https://stackoverflow.com/users/15030183/fkbeys" title="Stack Overflow Profile"><img width="120" src="stackoverflow-ar21.png"> Stack Overflow</a></code>
+    <code><a href="https://www.linkedin.com/in/fkbeys/" target="_f" title="LinkedIn Profile"> <img width="120" src="LinkedIn_Logo.svg.png"> LinkedIn</a></code> 
+    <code><a href="https://stackoverflow.com/users/6911431/fethullah-kaya" target="_t" title="Stack Overflow Profile"> <img width="120" src="stackoverflow-ar21.png"> Stack Overflow</a></code>
   </h5>
   
 
