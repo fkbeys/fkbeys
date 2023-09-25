@@ -9,13 +9,7 @@
 💼 I believe in the power of programming to transform and improve the lives of people around the world.   
 ⚡ I love technology and enjoy exploring new tech trends.   
 📫 How to reach me: [fkbeys@gmail.com]  
-* * * 
-## 🔥 Languages & Frameworks & Tools & Abilities 🔥  
-  <code>  <img width="60" src="dotnet.png">   </code> 
-  <code>  <img width="60" src="sql.png">   </code> 
-  <code>  <img width="80" src="react.png">   </code> 
-  <code>  <img width="140" src="reactnative.png">   </code> 
-* * * 
+ 
 ## ⚡ Stats ⚡
  <h5 align="center">
     <code><a href="https://www.linkedin.com/in/fkbeys/" target="_blank" title="LinkedIn Profile"> <img width="120" src="LinkedIn_Logo.svg.png"> LinkedIn</a></code> 
