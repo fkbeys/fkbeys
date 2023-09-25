@@ -4,7 +4,7 @@
 
   Hi, I'm Fethullah Kaya, a passionate software developer.
 
-🔭 I’m currently working on various projects using .NET, T-SQL, React and React Native.   
+🔭 I’m currently working on various projects using Java, .NET, T-SQL, React and React Native.   
 🌱 I’m always excited to learn and implement new technologies.   
 💼 I believe in the power of programming to transform and improve the lives of people around the world.   
 ⚡ I love technology and enjoy exploring new tech trends.   
